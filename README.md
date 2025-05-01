@@ -119,9 +119,9 @@ Open Swagger UI:
 ## 📬 API Endpoints
 
 - `GET /` → Root welcome message
-- `POST /login/` → Authenticate and get bearer token
-- `POST /create-vnet/` → Create a new Virtual Network
-- `GET /get-vnets/` → List all created VNets
+- `POST /login` → Authenticate and get bearer token
+- `POST /create-vnet` → Create a new Virtual Network
+- `GET /get-vnets` → List all created VNets
 
 ---
 
