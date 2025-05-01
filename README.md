@@ -118,9 +118,10 @@ Open Swagger UI:
 
 ## 📬 API Endpoints
 
-- `POST /vnets/` → Create a new Virtual Network  
-- `GET /vnets/` → List all created VNets  
-- `POST /token` → Obtain OAuth2 token  
+- `GET /` → Root welcome message
+- `POST /login/` → Authenticate and get bearer token
+- `POST /create-vnet/` → Create a new Virtual Network
+- `GET /get-vnets/` → List all created VNets
 
 ---
 
