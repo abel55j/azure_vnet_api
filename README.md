@@ -6,7 +6,7 @@ This project provides a FastAPI-based REST API that allows authenticated users t
 
 - ✅ Create Azure Virtual Networks (VNets) with multiple subnets  
 - 📄 Retrieve details of all created VNets  
-- 🔐 Authenticate using OAuth2 Password Flow (via Azure Entra ID)
+- 🔐 Authenticate using a simulated OAuth2 Password Flow with hardcoded credentials (admin / password)
 
 ---
 
